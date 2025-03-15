@@ -67,6 +67,6 @@ The database includes the following models:
 - Prisma ORM
 - MySQL
 
-## Technologies Used
+## .env File
 - Create your own .env file
 - The .env.example file is an example only
